@@ -1,0 +1,41 @@
+.dashboard{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+    color: grey;
+}
+.pretext{
+    margin-top: 10px;
+    color: darksalmon;
+    font-size: 20px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+margin-top: 60px;
+}
+.section{
+    text-align: center;
+}
+.section button:hover {
+  background-color: #e6e6e6;
+}
+.section button {
+  padding: 10px 20px;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: #f5f5f5;
+  transition: 0.3s;
+}
+.inputfield1{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.button{
+    background-color: rgb(215, 11, 11) !important;
+    /* color: #000; */
+}

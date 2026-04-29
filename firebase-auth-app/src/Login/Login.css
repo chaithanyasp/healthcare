@@ -1,0 +1,22 @@
+.main{
+    width:600px;
+    margin: 100px auto;
+    background-color:antiquewhite;
+    padding: 20px;
+}
+.inputfield{
+    width: 80%;
+    margin-bottom: 20px;
+}
+.btn{
+    padding: 10px;
+    align-items: center;
+    width: 30%;
+    background-color:coral;
+}
+.formdetails{
+   flex-direction: column;
+    display: flex;
+    gap: 15px;
+    /* width: 250px; */
+    margin:50px auto;}
