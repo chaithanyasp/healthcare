@@ -76,7 +76,7 @@ const handleAddPatient = () => {
       {/*  Grid View */}
       {view === "grid" && (
         <div className="gridContainer">
-          {patients .map((p) => (
+          {patients.map((p) => (
             <div key={p.id} className="card">
               <h3>{p.name}</h3>
               <p>Age: {p.age}</p>
