@@ -61,7 +61,7 @@ className="inputfield"
         </button>
       </form>
       <p>
-  Don't have an account? <a href="/signup">Sign Up</a>
+  Don't have an account? <Link to="/signup">Sign Up</Link>
 </p>
     </div>
   )
